@@ -9,8 +9,8 @@ Cisco Meraki Network Solution.
 ## :memo: Set Up Guide:
 
 Ensure you have the following installed on your PC/VM/Container: /
-*Node.JS /
-*NPM with both requests and meraki packages (latest versions) 
+-Node.JS /
+-NPM with both requests and meraki packages (latest versions) 
 
 ### :point_down: How to Get Started:
 
